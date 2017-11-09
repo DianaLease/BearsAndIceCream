@@ -4,3 +4,5 @@
 function iceCreamIsBetterThanBears(flavor) {
     console.log("mwahahaha");
 }
+
+var bear = 'bear';
